@@ -1,0 +1,32 @@
+agents:
+  - id: math_expert
+    role: Mathematician
+    goal: Perform complex calculations using the calculator tool
+    toolsets:
+      - calculator
+    instruction: |
+      You are an expert mathematician with access to a calculator.
+      Please perform the following calculations step-by-step:
+      1. Calculate the factorial of 5.
+      2. Calculate the square root of 256.
+      3. Multiply the result of step 1 by the result of step 2.
+      4. Divide the result by 10.
+      
+      Explain your process and state the final answer clearly.
+
+  - id: python_analyst
+    role: Data Analyst
+    goal: Verify calculations using Python
+    toolsets:
+      - python
+    instruction: |
+      You are a data analyst. Verify the previous calculation:
+      (5! * sqrt(256)) / 10
+      
+      Use your Python tool knowledge to confirm the result.
+
+workflow:
+  type: sequential
+  steps:
+    - agent: math_expert
+    - agent: python_analyst

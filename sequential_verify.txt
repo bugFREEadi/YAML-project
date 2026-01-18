@@ -1,0 +1,59 @@
+
+[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[0m
+[38;5;183m┃                   [96m[1m  🚀  YAML Agent Orchestration System  ✨  [0m                   [38;5;159m┃[0m
+[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[0m
+
+[38;5;159m[1mAgents:[0m 2 | [38;5;189m[1mWorkflow:[0m sequential
+[38;5;183m────────────────────────────────────────────────────────────────────────────────[0m
+
+[38;5;159m⏳ Running:[0m [1mresearcher[0m [2m(Research Assistant)[0m
+[92m✓ Completed:[0m [1mresearcher[0m
+[38;5;159m⏳ Running:[0m [1mwriter[0m [2m(Content Writer)[0m
+[92m✓ Completed:[0m [1mwriter[0m
+
+======================================================================
+SECTION 1 – CONCEPTUAL WORKFLOW DIAGRAM
+======================================================================
+
+researcher ──►writer ──►
+======================================================================
+SECTION 2 – DETAILED AGENT RESPONSES
+======================================================================
+
+[RESEARCHER]
+----------------------------------------------------------------------
+Here are some key insights about electric vehicles (EVs) based on data up to October 2023:
+
+1. **Market Growth**: The electric vehicle market has seen exponential growth over the past few years, with global sales reaching over 10 million units in 2022. This trend is expected to continue as more consumers shift towards sustainable transportation.
+
+2. **Government Incentives**: Many governments worldwide are offering incentives for EV purchases, including tax credits, rebates, and subsidies. These incentives are designed to encourage the adoption of electric vehicles and reduce greenhouse gas emissions.
+
+3. **Battery Technology**: Advancements in battery technology, particularly in lithium-ion and solid-state batteries, are leading to improved energy density, faster charging times, and longer lifespans. This is crucial for increasing the practicality of EVs for everyday consumers.
+
+4. **Charging Infrastructure**: The expansion of charging infrastructure is a critical factor in the widespread adoption of electric vehicles. Many countries are investing in fast-charging stations and home charging solutions to alleviate range anxiety among potential EV buyers.
+
+5. **Environmental Impact**: Electric vehicles produce zero tailpipe emissions, significantly reducing air pollution in urban areas. However, the overall environmental impact depends on the source of electricity used for charging and battery production processes.
+
+6. **Diverse Vehicle Offerings**: The EV market is diversifying, with various options now available, including sedans, SUVs, trucks, and commercial vehicles. This variety caters to different consumer preferences and needs, further driving adoption.
+
+7. **Total Cost of Ownership**: While the initial purchase price of electric vehicles can be higher than traditional gasoline vehicles, the total cost of ownership tends to be lower due to lower fuel and maintenance costs. This economic factor is becoming increasingly appealing to consumers.
+
+8. **Autonomous Driving Integration**: Many electric vehicles are being equipped with advanced driver-assistance systems (ADAS) and are positioned to integrate fully autonomous driving capabilities in the future. This trend is likely to further enhance the attractiveness of EVs.
+
+9. **Sustainability Concerns**: The production of EV batteries raises concerns about resource extraction, particularly for lithium, cobalt, and nickel. There is a growing focus on sustainable mining practices and battery recycling to mitigate these issues.
+
+10. **Corporate Commitments**: Many major automakers have committed to transitioning their fleets to electric, with some pledging to phase out internal combustion engines entirely by 2030 or 2040. This shift is indicative
+
+[WRITER]
+----------------------------------------------------------------------
+The electric vehicle (EV) market has experienced significant growth, with global sales surpassing 10 million units in 2022 and expected to continue rising as consumers increasingly favor sustainable transportation. Government incentives, including tax credits and rebates, are promoting EV adoption and aiming to decrease greenhouse gas emissions. Advancements in battery technology, particularly in lithium-ion and solid-state batteries, are enhancing energy density, charging speed, and battery lifespan, making EVs more practical for everyday use. Additionally, the expansion of charging infrastructure remains essential for facilitating widespread EV acceptance.
+
+======================================================================
+SECTION 4 – LLM CALL TRACE TABLE
+======================================================================
+
+| Agent            | Model Used       | Provider | Purpose              |
+|------------------|------------------|----------|----------------------|
+| researcher       | gpt-4o-mini      | openai   | research             |
+| writer           | gpt-4o-mini      | openai   | content creation     |
+

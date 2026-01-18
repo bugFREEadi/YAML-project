@@ -1,0 +1,57 @@
+
+[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[0m
+[38;5;183m┃                   [96m[1m  🚀  YAML Agent Orchestration System  ✨  [0m                   [38;5;159m┃[0m
+[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;183m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;189m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;153m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[38;5;159m━[0m
+
+[38;5;159m[1mAgents:[0m 2 | [38;5;189m[1mWorkflow:[0m sequential
+[38;5;183m────────────────────────────────────────────────────────────────────────────────[0m
+
+[38;5;159m⏳ Running:[0m [1mresearcher[0m [2m(Research Assistant)[0m
+[92m✓ Completed:[0m [1mresearcher[0m
+[38;5;159m⏳ Running:[0m [1mwriter[0m [2m(Content Writer)[0m
+[92m✓ Completed:[0m [1mwriter[0m
+
+======================================================================
+SECTION 1 – CONCEPTUAL WORKFLOW DIAGRAM
+======================================================================
+
+researcher ──►writer ──►
+======================================================================
+SECTION 2 – DETAILED AGENT RESPONSES
+======================================================================
+
+[RESEARCHER]
+----------------------------------------------------------------------
+Here are some key insights about electric vehicles (EVs) based on recent trends, technologies, and market developments:
+
+1. **Market Growth**: The global electric vehicle market has seen exponential growth, with sales increasing significantly year-over-year. In 2023, EV sales accounted for a substantial percentage of total vehicle sales in many regions, spurred by government incentives, increasing environmental awareness, and expanding charging infrastructure.
+
+2. **Government Policies**: Many governments worldwide are implementing stricter emissions regulations and providing incentives for EV purchases, such as tax credits, rebates, and grants. Some countries have also set targets for phasing out internal combustion engine vehicles, further driving the transition to electric mobility.
+
+3. **Battery Technology Advancements**: Improvements in battery technology, including higher energy density, faster charging times, and reduced costs, are key factors in making EVs more accessible. Solid-state batteries and advancements in lithium-ion technology are promising developments that could lead to longer ranges and lower prices.
+
+4. **Charging Infrastructure Expansion**: The development of robust charging networks is critical for the adoption of EVs. Public and private investments are being made to increase the number of fast-charging stations, with many initiatives focusing on urban areas and highways to reduce range anxiety for potential EV buyers.
+
+5. **Sustainability Concerns**: While EVs are generally considered more environmentally friendly than traditional vehicles, there are ongoing discussions about the sustainability of battery production, particularly concerning lithium, cobalt, and nickel extraction. Recycling and sustainable sourcing of materials are becoming increasingly important.
+
+6. **Diversity of Offerings**: The EV market is expanding beyond passenger cars to include electric buses, trucks, and two-wheelers. This diversification is essential for addressing various segments of transportation and reducing overall greenhouse gas emissions.
+
+7. **Consumer Acceptance**: Consumer perceptions of EVs are changing positively, with growing interest in their benefits, including lower operating costs, reduced emissions, and advanced technology features. However, concerns about range, charging times, and upfront costs still exist.
+
+8. **Autonomous Driving Integration**: Many EV manufacturers are also investing in autonomous driving technology. The integration of EVs with advanced driver-assistance systems (ADAS) is expected to enhance the appeal of electric vehicles.
+
+9. **Impact of COVID-19**: The pandemic initially disrupted the automotive industry, but it also accelerated interest in cleaner transportation options. The shift towards remote work and reduced commuting has led some consumers to reconsider their vehicle needs, fostering
+
+[WRITER]
+----------------------------------------------------------------------
+The electric vehicle (EV) market is experiencing rapid growth, with 2023 witnessing a significant increase in sales, largely driven by government incentives, heightened environmental awareness, and improved charging infrastructure. Governments are enacting stricter emissions regulations and offering financial incentives for EV purchases, alongside ambitious targets for phasing out internal combustion engine vehicles. Additionally, advancements in battery technology, such as increased energy density and faster charging times, are making EVs more accessible and affordable. These trends indicate a robust shift towards electric mobility in the coming years.
+
+======================================================================
+SECTION 4 – LLM CALL TRACE TABLE
+======================================================================
+
+| Agent            | Model Used       | Provider | Purpose              |
+|------------------|------------------|----------|----------------------|
+| researcher       | gpt-4o-mini      | openai   | research             |
+| writer           | gpt-4o-mini      | openai   | content creation     |
+

@@ -1,0 +1,40 @@
+agents:
+  - id: root
+    model: claude
+    description: "Main coordinator agent that delegates tasks and manages workflow"
+    role: Coordinator
+    goal: Understand user requests and delegate tasks appropriately
+    instruction: |
+      You are the root coordinator agent. Your job is to:
+      1. Understand user requests and break them down into manageable tasks
+      2. Delegate appropriate tasks to your helper agent
+      3. Coordinate responses and ensure tasks are completed properly
+      4. Provide final responses to the user
+      When you receive a request, analyze what needs to be done and decide whether to:
+      - Handle it yourself if it's simple
+      - Delegate to the helper agent if it requires specific assistance
+    role: Product Manager
+    goal: Create a product spec based on research
+    model: gpt
+    sub_agents: [researcher, analyst]
+    instruction: |
+      You are a Product Manager.
+      1. Review the research provided by your sub-agents.
+      2. Create a one-paragraph product concept.
+  
+  - id: researcher
+    role: Market Researcher
+    goal: Find 3 top AI trends
+    model: gpt
+    instruction: Return 3 bullet points on AI trends.
+
+  - id: analyst
+    role: Data Analyst
+    goal: Analyze market size
+    model: gpt
+    instruction: Provide one sentence on market growth.
+
+workflow:
+  type: sequential
+  steps:
+    - agent: root
